@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.645
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertAspnetboilerplateXml2Resx", "ConvertAspnetboilerplateXml2Resx\ConvertAspnetboilerplateXml2Resx.csproj", "{7309D037-DF9A-4705-A323-C834A78D3F21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspnetboilerplateXml2Resx", "ConvertAspnetboilerplateXml2Resx\AspnetboilerplateXml2Resx.csproj", "{7309D037-DF9A-4705-A323-C834A78D3F21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

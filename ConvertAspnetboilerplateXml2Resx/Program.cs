@@ -2,15 +2,15 @@
 using System.Resources;
 using System.Xml;
 
-namespace ConvertAspnetboilerplateXml2Resx
+namespace AspnetboilerplateXml2Resx
 {
     internal class Program
     {
         private const string _aspnetboilerblateXmlLocalizationFile = "erp.xml";
         private const string _outputResxFile = "Erp.resx";
+
         private static void Main(string[] args)
         {
-
             XmlTextReader reader = new XmlTextReader(_aspnetboilerblateXmlLocalizationFile);
 
             ResXResourceWriter writer = new ResXResourceWriter(_outputResxFile);

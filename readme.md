@@ -1,4 +1,4 @@
-﻿# Convert ASP.NET Boilerplate XML Localization to resx 
+﻿# Convert ASP.NET Core Boilerplate XML Localization to resx 
 
 Convert any existing .xml localization file to resx
 

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ConvertAspnetboilerplateXml2Resx")]
+[assembly: AssemblyTitle("AspnetboilerplateXml2Resx")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConvertAspnetboilerplateXml2Resx")]
+[assembly: AssemblyCompany("d.o.it")]
+[assembly: AssemblyProduct("AspnetboilerplateXml2Resx")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
